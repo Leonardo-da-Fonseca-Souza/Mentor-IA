@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Frontend Dependencies and Builds
+node_modules/
+dist/
+dist-ssr/
+build/
+
+# Google Cloud & Credentials
+*.json
+!package.json
+!package-lock.json
+!.oxlintrc.json
+*service-account*.json
+client_secrets*.json
+
+# Environment Variables
+*.env
+.env.*
+!.env.example
+
+# Python Virtual Environments and Caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS Temporary Files and IDEs
+.DS_Store
+Thumbs.db
+.gcpignore
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
