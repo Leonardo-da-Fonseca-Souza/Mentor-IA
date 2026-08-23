@@ -1,12 +1,14 @@
 # LaunchPad | Space Logistics
 
-Desenvolvimento pratico de um Site orientado por Agente IA, utilizando Design System de alta performance para comercialização, monitoramento e gerenciamento de viagem turistica.
+Desenvolvimento prático de um protótipo conceitual orientado por Agente IA, utilizando Design System de alta performance para simulação de comercialização, monitoramento e gerenciamento de missões de transporte aeroespacial.
 
 ---
 
 ## 1. 📌 Visão Geral do Projeto
 
-O **LaunchPad** é uma solução de interface de próxima geração (Orbital Kinetic Design System) voltada para o setor aeroespacial comercial. A aplicação web foi concebida para comercialização e visualização de missões de transporte de carga, cobrindo desde órbitas terrestres baixas até operações lunares e interplanetárias profundas.
+O **LaunchPad** é um **protótipo conceitual e prático** de uma interface de próxima geração (*Orbital Kinetic Design System*). Desenvolvido exclusivamente como um **projeto de simulação futurista**, o sistema simula um ambiente de comercialização, monitoramento e visualização de missões de transporte aeroespacial — cobrindo desde turismo orbital em órbitas terrestres baixas até a logística de cargas em operações lunares e interplanetárias profundas.
+
+Este material serve como laboratório prático para explorar a integração de ferramentas modernas de desenvolvimento orientadas por IA, design de alta fidelidade e visualização de telemetria fictícia em tempo real.
 
 ### Objetivos de Negócio:
 *   **Apresentação e Venda de Manifesto:** Interface otimizada para aquisição e reserva de manifestos de lançamento de cargas úteis em diferentes órbitas.
